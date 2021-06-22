@@ -9,7 +9,7 @@
 
 ## Requirements
 
-* Terraform: `>= v1.0.0`
+* Terraform: `>= v0.15.0`
 * Configure Azure subscription
 * The VPC must be exists
 * The subnets must be exists

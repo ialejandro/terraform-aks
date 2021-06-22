@@ -10,7 +10,7 @@ terraform {
     }
   }
 
-  required_version = ">= 0.13"
+  required_version = ">= 0.15.0"
 
   backend "azurerm" {
     subscription_id      = "CHANGE-ME"
